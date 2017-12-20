@@ -1,3 +1,5 @@
+# Repository: NameRecommendation
+Language: C++
 CSUF CPSC 131, Spring 2017
 Project 4
 
