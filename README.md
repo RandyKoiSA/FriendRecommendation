@@ -11,6 +11,7 @@ Class: CSUF CPSC 131, Spring 2017
 Project Number: 4
 *******************************************
 Author: Randy Le, Alex Ma
+*******************************************
 Author's Email: Randy.l5933@csu.fullerton.edu ; alexjmma@csu.fullerton.edu
 *******************************************
 Source Files:
