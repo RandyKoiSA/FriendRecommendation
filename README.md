@@ -1,4 +1,4 @@
-# Repository: NameRecommendation
+# Repository: FriendRecommendation
 This program tries to mimmic the friend suggestion system. It goes through your friends list, trying to find a friend of a friend that isn't in your friend list already.
 
 ## Info
