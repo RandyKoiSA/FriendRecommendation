@@ -1,24 +1,19 @@
 # Repository: NameRecommendation
-
-# About
 This program tries to mimmic the friend suggestion system. It goes through your friends list, trying to find a friend of a friend that isn't in your friend list already.
 
-# INFO
-Language: C++
+## Info
+Author: Randy Le, Alex Ma<br>
+Author's Email: Randy.l5933@csu.fullerton.edu ; alexjmma@csu.fullerton.edu <br>
 
-Software: Visual Studio 2015
+Language: C++ <br>
+Software: Visual Studio 2015<br>
+Distribution: Windows<br>
 
-Distribution: Windows
-
-Class: CSUF CPSC 131 Data Construct Concept, Spring 2017
-
+Class: CSUF CPSC 131 
 Project Number: 4
 
-Author: Randy Le, Alex Ma
 
-Author's Email: Randy.l5933@csu.fullerton.edu ; alexjmma@csu.fullerton.edu
-
-Source Files:
+## Contents
 1. Graph.cpp
 2. Graph.h
 3. Projec4.exe
